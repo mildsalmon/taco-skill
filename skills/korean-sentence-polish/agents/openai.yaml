@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 문장 다듬기"
+  short_description: "책의 교정 원칙으로 뜻과 말투를 살려 한국어 답변 다듬기"
+  default_prompt: "$korean-sentence-polish를 적용해 답변 초안을 다듬고 교정된 문장만 출력해 줘."
